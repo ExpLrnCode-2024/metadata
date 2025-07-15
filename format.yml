@@ -1,0 +1,21 @@
+# Format config shared by all documents
+
+number-sections: true
+number-depth: 4
+tbl-cap-location: bottom
+toc: true
+toc-depth: 4
+
+format:
+  html:
+    code-annotations: hover
+    code-overflow: wrap
+    embed-resources: true
+    highlight-style: github
+    html-math-method: mathjax
+    repo-actions: source
+    toc-location: right
+    theme:
+      light: flatly
+      dark: darkly
+

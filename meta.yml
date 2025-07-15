@@ -1,0 +1,9 @@
+
+# Metadata shared by all documents
+#
+bibliography: metadata/references.bib
+csl: metadata/apa.csl
+copyright: University of Edinburgh, 2025
+date-format: long
+date-modified: last-modified
+license: CC BY
