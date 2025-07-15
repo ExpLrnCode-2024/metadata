@@ -18,4 +18,8 @@ format:
     theme:
       light: flatly
       dark: darkly
+  pdf:
+    documentclass: scrartcl
+    colorlinks: true
+    links-as-notes: true
 

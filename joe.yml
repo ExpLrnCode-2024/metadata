@@ -1,0 +1,17 @@
+authors:
+  - name: Joe Marsh Rossney
+    orcid: 0000-0002-8082-8566
+    affiliation:
+      - ref: ukceh
+      - ref: uoe
+
+affiliations:
+  - id: ukceh
+    name: UK Centre for Ecology & Hydrology
+    city: Edinburgh
+    country: UK
+  - id: uoe
+    name: University of Edinburgh
+    department: School of Physics & Astronomy
+    city: Edinburgh
+    country: UK
