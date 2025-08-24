@@ -1,14 +1,43 @@
 ## Access to code & data {.appendix .unnumbered}
 
+::: {.callout-important}
+Where research involves real human lives, there can be a tension between the transparency and reproducibility goals of the researcher, and the obligation to take every reasonable precaution to protect the privacy and security of the people involved.
+We sought to strike a balance, by publishing a collection of the most relevant sections of interviews, after making certain to redact potentially identifiable or irrelevant information, but not the interviews in their entirety.
+This is in line with the [informed consent form]() signed by all participants prior to their interview, which gives permission to publish _"sections of the interview"_ in _"research outputs and websites"_.
+The full interview transcripts will not be made public.
+:::
 
-## Funding {.appendix .unnumbered}
+Interviews
+: The interview protocol is available ==HERE==. Selected quotes from interviews are published as a collection of plain-text files in the Markdown format ==HERE==.
 
+Survey
+: The survey is reproduced in Markdown format ==HERE==. It is also available as a JISC export. The results can be downloaded ==HERE==. The code used to produce the analysis is available ==HERE==.
 
-## CRediT statement {.appendix .unnumbered}
+## Author contributions {.appendix .unnumbered}
+
+Joe Marsh Rossney
+: Conceived of the project; drafted the funding proposal; led and coordinated the research; supervised SH and PGGE; contributed to the literature review; conducted and analysed 13 interviews; wrote the guidance documents and transcription formatting software; wrote the first draft of this article.
+
+Sarah Hogarth
+: Contributed to the literature review; conducted and analysed 8 interviews. 
+
+Polux Gabriel Garcia Elizondo
+: Contributed to the literature review; conducted and analysed 3 interviews.
+
+Ross Galloway
+: Reviewed and edited the funding proposal; supervised JMR; reviewed and edited the final draft of the manuscript.
 
 
 ## Acknowledgements {.appendix .unnumbered}
 
+The authors would like to thank **Kristel Torokoff** for playing an instrumental role in securing financial support for this project via the School of Physics and Astronomy.
+We would also like to thank **Kristel Torokoff**, **Britton Smith** and **Joe Zuntz** for conversations that helped to shape this project, and for general encouragement.
 
-## Correspondence {.appendix .unnumbered}
 
+## Financial support {.appendix .unnumbered}
+
+We gratefully acknowledge that funding for this Principle's Teaching Award Scholarship (PTAS) project was provided by the University of Edinburgh Development Trust.
+
+JMR was directly supported by both PTAS and the School of Physics \& Astronomy at the University of Edinburgh.
+SH was supported by PTAS.
+PGGE was supported by the School of Physics \& Astronomy through the Career Development Summer Scholarship programme.
