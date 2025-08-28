@@ -1,3 +1,31 @@
+## Authors {.appendix .unnumbered}
+
+During the relevant time period (2024), all authors were affiliated with the School of Physics & Astronomy (SoPA) at the University of Edinburgh (UoE).
+
+- **Joe Marsh Rossney** had recently completed a PhD in theoretical particle physics, during which time they were a teaching assistant on several different programming courses.
+- **Sarah Hogarth** had recently completed a Bachelors degree in physics, where their dissertation focused on the impact of Generative AI on physics education.
+- **Polux Gabriel Garcia Elizonda** was a Master's student in physics, having also completed a dissertation on Generative AI in physics education.
+- **Ross Galloway** was a Senior Lecturer and leader of the Physics Education Research Group.
+- **Britton Smith** was a Reader in the Institute for Astronomy and Course Organiser for an introductory Python course taken by physics undergraduates.
+
+
+## Author contributions {.appendix .unnumbered}
+
+CRediT: 
+**JMR**: Conceptualisation (lead), Data curation (lead), Formal analysis (lead), Funding acquisition (lead), Investigation (lead), Methodology, Project administration (equal), Software, Supervision (of SH & PGGE), Writing - original draft. 
+**SH**: Data curation (supporting), Formal analysis (equal), Investigation (supporting). 
+**PGGE**: Data curation (supporting), Formal analysis (supporting), Investigation (supporting).
+**RG**: Conceptualisation (supporting), Funding acquisition (supporting), Project administration (equal), Supervision (of JMR), Writing - review & editing.
+**BS**: Conceptualisation (supporting), Funding acquisition (supporting). 
+
+<!--
+**JMR:** Conceived of the project; drafted the funding proposal; led and coordinated the research; supervised SH and PGGE; contributed to the literature review; conducted and analysed 13 interviews; wrote the guidance documents and transcription formatting software.
+**SH:** Contributed to the literature review; conducted and analysed 8 interviews. 
+**PGGE:** Contributed to the literature review; conducted and analysed 3 interviews.
+**RG:** Reviewed and edited the funding proposal; supervised JMR; contributed ideas. 
+**BS:** Reviewed and edited the funding proposal; contributed ideas.
+-->
+
 ## Acknowledgements {.appendix .unnumbered}
 
 The authors would like to thank **Kristel Torokoff** for playing an instrumental role in securing financial support for this project via the School of Physics and Astronomy.
@@ -12,26 +40,6 @@ JMR was directly supported by both PTAS and the School of Physics & Astronomy at
 SH was supported by PTAS.
 PGGE was supported by the School of Physics & Astronomy through the Career Development Summer Scholarship programme.
 
-
-## Author contributions {.appendix .unnumbered}
-
-Joe Marsh Rossney
-: Conceived of the project; drafted the funding proposal; led and coordinated the research; supervised SH and PGGE; contributed to the literature review; conducted and analysed 13 interviews; wrote the guidance documents and transcription formatting software.
-<!-- wrote the first draft of this article. -->
-
-Sarah Hogarth
-: Contributed to the literature review; conducted and analysed 8 interviews. 
-
-Polux Gabriel Garcia Elizondo
-: Contributed to the literature review; conducted and analysed 3 interviews.
-
-Ross Galloway
-: Reviewed and edited the funding proposal; supervised JMR. 
-<!-- reviewed and edited the final draft of the manuscript. -->
-
-Britton Smith
-: Reviewed the funding proposal
-<!-- reviewed and edited the final draft of the manuscript. -->
 
 ## Correspondence {.appendix .unnumbered}
 
