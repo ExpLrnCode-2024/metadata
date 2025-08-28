@@ -1,9 +1,29 @@
-
 # Metadata shared by all documents
-#
+
 bibliography: metadata/references.bib
 csl: metadata/apa.csl
-copyright: 2025, University of Edinburgh
 date-format: long
 date-modified: last-modified
+
+# Endmatter
+
 license: CC BY
+copyright: 2025, Joe Marsh Rossney
+
+# Citation metadata in CSL format
+# See https://docs.citationstyles.org/en/stable/specification.html
+# Note that this is intended for citing the website and any of the pages therein, not our (not yet released) article!
+citation:
+  id: MarshRossney2025
+  type: webpage
+  author:
+    - Joe Marsh Rossney
+    - Sarah Hogarth
+    - Polux Gabriel Garcia Elizondo
+    - Ross Galloway
+    - Britton Smith
+  title: "Experiences of Learning to Code: Perspectives of Undergraduate Physics Students in 2024"
+  issued: 2025-08
+  url: https://ExpLrnCode-2024.github.io/
+  abstract: |
+    This site provides access to research materials and outputs produced during the _"Experiences of Learning to Code"_ project, which was run by a staff-student collaboration in the School of Physics & Astronomy at the University of Edinburgh from June--December 2024. The study sought to understand how the experiences of undergraduate physics students taking programming courses have been changing due to the sudden availability of Generative Artificial Intelligence (GenAI) systems. The main inquiry took the form of a series of semi-structured interviews with 24 student participants, whose experiences span the periods before and after the advent of GenAI.

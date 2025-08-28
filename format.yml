@@ -13,7 +13,6 @@ format:
     embed-resources: true
     highlight-style: github
     html-math-method: mathjax
-    repo-actions: source
     toc-location: right
     theme:
       light: flatly
