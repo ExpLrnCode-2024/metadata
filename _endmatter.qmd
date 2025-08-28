@@ -1,22 +1,21 @@
 ## Authors {.appendix .unnumbered}
 
-During the relevant time period (2024), all authors were affiliated with the School of Physics & Astronomy (SoPA) at the University of Edinburgh (UoE).
-
-- **Joe Marsh Rossney** had recently completed a PhD in theoretical particle physics, during which time they were a teaching assistant on several different programming courses.
-- **Sarah Hogarth** had recently completed a Bachelors degree in physics, where their dissertation focused on the impact of Generative AI on physics education.
-- **Polux Gabriel Garcia Elizonda** was a Master's student in physics, having also completed a dissertation on Generative AI in physics education.
-- **Ross Galloway** was a Senior Lecturer and leader of the Physics Education Research Group.
-- **Britton Smith** was a Reader in the Institute for Astronomy and Course Organiser for an introductory Python course taken by physics undergraduates.
+During the relevant time period (2024), all authors were affiliated with the School of Physics & Astronomy at the University of Edinburgh.
+**Joe Marsh Rossney** had recently completed a PhD in theoretical physics, during which time they were a teaching assistant on several different programming courses.
+**Sarah Hogarth** had recently completed a Bachelors degree in physics, where their dissertation focused on the impact of Generative AI on physics education.
+**Polux Gabriel Garcia Elizonda** was a Master's student in physics, having also completed a dissertation on Generative AI in physics education.
+**Ross Galloway** was a Senior Lecturer and leader of the Physics Education Research Group.
+**Britton Smith** was a Reader in the Institute for Astronomy and Course Organiser for an introductory Python course taken by physics undergraduates.
 
 
 ## Author contributions {.appendix .unnumbered}
 
 CRediT: 
-**JMR**: Conceptualisation (lead), Data curation (lead), Formal analysis (lead), Funding acquisition (lead), Investigation (lead), Methodology, Project administration (equal), Software, Supervision (of SH & PGGE), Writing - original draft. 
+**JMR**: Conceptualisation (lead), Data curation (lead), Formal analysis (equal), Funding acquisition (lead), Investigation (lead), Methodology, Project administration (equal), Software, Supervision (of SH & PGGE), Writing - original draft. 
 **SH**: Data curation (supporting), Formal analysis (equal), Investigation (supporting). 
 **PGGE**: Data curation (supporting), Formal analysis (supporting), Investigation (supporting).
 **RG**: Conceptualisation (supporting), Funding acquisition (supporting), Project administration (equal), Supervision (of JMR), Writing - review & editing.
-**BS**: Conceptualisation (supporting), Funding acquisition (supporting). 
+**BS**: Conceptualisation (supporting), Funding acquisition (supporting).
 
 <!--
 **JMR:** Conceived of the project; drafted the funding proposal; led and coordinated the research; supervised SH and PGGE; contributed to the literature review; conducted and analysed 13 interviews; wrote the guidance documents and transcription formatting software.
@@ -29,16 +28,16 @@ CRediT:
 ## Acknowledgements {.appendix .unnumbered}
 
 The authors would like to thank **Kristel Torokoff** for playing an instrumental role in securing financial support for this project via the School of Physics and Astronomy.
-We would also like to thank **Kristel Torokoff**, **Britton Smith** and **Joe Zuntz** for conversations that helped to shape this project, and for general encouragement.
+We would also like to thank **Kristel Torokoff** and **Joe Zuntz** for conversations that helped to shape this project.
 
 
 ## Financial support {.appendix .unnumbered}
 
 We gratefully acknowledge that funding for this Principle's Teaching Award Scholarship (PTAS) project was provided by the University of Edinburgh Development Trust.
 
-JMR was directly supported by both PTAS and the School of Physics & Astronomy at the University of Edinburgh.
-SH was supported by PTAS.
-PGGE was supported by the School of Physics & Astronomy through the Career Development Summer Scholarship programme.
+**JMR** was directly supported by both PTAS and the School of Physics & Astronomy at the University of Edinburgh.
+**SH** was supported by PTAS.
+**PGGE** was supported by the School of Physics & Astronomy through the Career Development Summer Scholarship programme.
 
 
 ## Correspondence {.appendix .unnumbered}
